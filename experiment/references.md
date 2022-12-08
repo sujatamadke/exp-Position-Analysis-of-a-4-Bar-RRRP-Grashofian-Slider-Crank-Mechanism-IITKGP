@@ -9,6 +9,7 @@
 
 
 # People
+## Subject Matter Expert
 
 <b>Name of Developer | <b> **Dr. Kingshook Bhattacharyya**
 :--|:--|
@@ -24,3 +25,5 @@ SrNo | Name | VLabs Developer or Integration Engineer | Designation | Department
 1 | **Mitrajit Samanta** | Integration | Senior Project Officer | Department of Mechanical Engineering | IIT Kharagpur | 
 2 | **Pabitra Kumar Jana** | Integration | Senior Project Officer | Department of Mechanical Engineering | IIT Kharagpur | 
 3 | **Sujata Madke** | Integration | Research Engineer | Department of Mechanical Engineering | IIT Kharagpur | 
+4 | **Prakriti Dhang** | Integration | Project Scientist | Department of Mechanical Engineering | IIT Kharagpur |
+
